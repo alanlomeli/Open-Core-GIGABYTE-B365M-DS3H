@@ -218,10 +218,20 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
+				<key>framebuffer-con0-enable</key>
+				<data>AQAAAA==</data>
+				<key>device-id</key>
+				<data>mz4AAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con2-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con2-type</key>
-				<data>AAgAAA==</data>
+				<key>framebuffer-con0-alldata</key>
+				<data>AQUJAAAEAADHAwAA</data>
+				<key>framebuffer-con1-alldata</key>
+				<data>AgQKAAAIAADHAwAA</data>
+				<key>framebuffer-con2-alldata</key>
+				<data>AwYIAAAIAADHAwAA</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -798,7 +808,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string></string>
+				<string>igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
